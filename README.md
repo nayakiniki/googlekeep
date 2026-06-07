@@ -160,7 +160,7 @@ Please check the issues and roadmap before starting work.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT and Apache License.
 
 ---
 
