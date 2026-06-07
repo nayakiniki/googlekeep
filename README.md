@@ -1,5 +1,7 @@
 # googlekeep
 # Keep+ 🚀
+![Uploading G.png…]()
+
 
 Keep+ is an AI-powered note-taking and productivity platform inspired by Google Keep. It combines the simplicity of quick note-taking with intelligent features such as AI-powered organization, semantic search, smart summaries, and goal tracking.
 
