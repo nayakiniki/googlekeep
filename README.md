@@ -92,7 +92,6 @@ keep-plus/
 * OpenRouter
 * LangChain
 * Embeddings
-* pgvector
 
 ### Deployment
 
